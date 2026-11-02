@@ -1,0 +1,90 @@
+[
+  {
+    "id": "seed-1",
+    "name": "Luna",
+    "species": "Gato",
+    "breed": "Mestiza",
+    "age": "2 años",
+    "description": "Cariñosa y juguetona. Le encanta acurrucarse y ronronear junto a ti.",
+    "image": "",
+    "status": "Disponible",
+    "createdAt": "2024-06-15"
+  },
+  {
+    "id": "seed-2",
+    "name": "Rocky",
+    "species": "Perro",
+    "breed": "Mestizo",
+    "age": "3 años",
+    "description": "Leal y protector. Ahora disfruta de largas caminatas con su nueva familia.",
+    "image": "",
+    "status": "Adoptado",
+    "createdAt": "2024-05-20"
+  },
+  {
+    "id": "seed-3",
+    "name": "Coco",
+    "species": "Perro",
+    "breed": "Chihuahua mix",
+    "age": "1 año",
+    "description": "Pura energía y alegría. Llena de risas cualquier hogar.",
+    "image": "",
+    "status": "Disponible",
+    "createdAt": "2024-07-10"
+  },
+  {
+    "id": "seed-4",
+    "name": "Mia",
+    "species": "Gato",
+    "breed": "Siamesa",
+    "age": "4 años",
+    "description": "Elegante y tranquila. Encontró el hogar sereno que merecía.",
+    "image": "",
+    "status": "Adoptado",
+    "createdAt": "2024-04-01"
+  },
+  {
+    "id": "seed-5",
+    "name": "Thor",
+    "species": "Perro",
+    "breed": "Pastor alemán",
+    "age": "5 años",
+    "description": "Noble y valiente. Un corazón enorme en un cuerpo grande.",
+    "image": "",
+    "status": "Disponible",
+    "createdAt": "2024-03-12"
+  },
+  {
+    "id": "seed-6",
+    "name": "Lola",
+    "species": "Conejo",
+    "breed": "Mini lop",
+    "age": "1 año",
+    "description": "Dulce y curiosa. Siempre lista para explorar nuevos rincones.",
+    "image": "",
+    "status": "Disponible",
+    "createdAt": "2024-08-05"
+  },
+  {
+    "id": "seed-7",
+    "name": "Max",
+    "species": "Perro",
+    "breed": "Labrador mix",
+    "age": "2 años",
+    "description": "Amigable y sociable. Se lleva bien con todos, humanos y animales.",
+    "image": "",
+    "status": "Disponible",
+    "createdAt": "2024-06-28"
+  },
+  {
+    "id": "seed-8",
+    "name": "Nina",
+    "species": "Gato",
+    "breed": "Atigrada",
+    "age": "3 años",
+    "description": "Independiente pero cariñosa. Le encanta observar el mundo desde la ventana.",
+    "image": "",
+    "status": "Disponible",
+    "createdAt": "2024-05-15"
+  }
+]
